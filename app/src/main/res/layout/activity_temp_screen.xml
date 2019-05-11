@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TempScreen"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/privacyAndTermsBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Privacy and Terms Screen"/>
+
+    <Button
+        android:id="@+id/introSliderBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Intro Slider"/>
+
+    <Button
+        android:id="@+id/hiScreenBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Hi Screen"/>
+
+    <Button
+        android:id="@+id/registerScreenBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Register Screen"/>
+
+    <Button
+        android:id="@+id/addMealBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Add Meal Screen"/>
+
+    <Button
+        android:id="@+id/showMealDescBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Show Meal Nutrition Desc Screen"/>
+
+    <Button
+        android:id="@+id/personalDetailsBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Personal Details"/>
+
+    <Button
+        android:id="@+id/loginScreenBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Login Screen"/>
+
+    <Button
+        android:id="@+id/signUpScreenBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open SignUp Screen"/>
+
+    <Button
+        android:id="@+id/addScreenBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Add Screen by Rudresh"/>
+
+    <Button
+        android:id="@+id/mainScreenBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Main Screen"/>
+
+    <Button
+        android:id="@+id/integratedScreens"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Integrated Startup Screen"/>
+
+</LinearLayout>

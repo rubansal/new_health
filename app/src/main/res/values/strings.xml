@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Health Company App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_string">Every kilo starts with a gram, dont forget to keep us updated on your progress</string>
+    <string name="privacy_policy">By installing our mobile application or in any way
+                                  using or accessing our Services, you accept the terms
+                                  and conditions of this Privacy Policy and the
+                                  processing of your personal data.</string>
+
+    <string name="facebook_app_id">2610855902289350</string>
+    <string name="fb_login_protocol_scheme">fb2610855902289350</string>
+
+
+</resources>

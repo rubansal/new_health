@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 12 15:32:56 IST 2019
+0.baseType=DIRECTORY
+0.base=/Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,441 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:1-64:12
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-4.41.0.aar/666c1a010b382614b2426db62886bdd5/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:21:1-37:12
+MERGED from [com.google.android.material:material:1.1.0-alpha04] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha04.aar/888bbfa138d662b6187a378c683b2ffa/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/31927cb367dde674e6a8e83dd317d1ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/ff89d2ddec9a2348ecab746d3d148e96/AndroidManifest.xml:2:1-11:12
+MERGED from [com.roomorama:caldroid:3.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-caldroid-3.0.1.aar/bf48e852e21b5cf33f9c9cd99cae2331/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jjoe64:graphview:4.2.2] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-graphview-4.2.2.aar/b3a81148411a8eed6f7aeaec85bb8d5a/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/59f61b3bb465412d6a916a46068b2a9f/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/dad4c97f565e9f95257dddedf3b0bab6/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/53c5a31098c1013dd853021469066117/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/d62af3eeeb2c8f1f0e3ba6f7ff6025a7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/703e17feb4b7d1642d3f831ec3a09266/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/1fab1a7222cdd8d485602ee92e583998/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/305be8d5a50aceb434504a6379132cc5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/circleprogress-1.2.1.aar/05dada37dd09461f7939322a1bd3fcd1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.7.1.aar/e1c4ac517b9428c5e4b23ce52625baf0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/ba60140e9cf356f826119b4318d943ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/8625ba18bedfa2f15ed4046c22854734/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/2350a8b96943ec481272432dc688a759/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/3eb9a24a89c0d9402c0297da236f0b5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/b886295dc6ca71d180529a1d93c989a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/7e3704ea138168767c06f6564919c187/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/0ab9a6676010a13ebd55d5602e4366b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/dc7039bc00ad159f1d2e356dc41e8d70/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha01.aar/6735cca743b8f20326909bb2ee423487/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/9966127ef53f5e2409b44464311ccc05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/f776cb37836ac8b2baab9cb13bc70182/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/6f5da98757245f6dcc137515b65062ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1492da9e4abecc3f803c9231926e0c82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f05d65ad82902a71fff6a61464f7a639/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/a79ced531f075ba153b778cf14c9fa69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d3485ad8d39ade5e44b1d92e68796455/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/32012ed03e4aee84f22fae32387186e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/46c2cff722e0e51700e0f3ad59323c10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/bc45d43ff0b29d96fd8469449e017a23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/e95b03b58ff31bee99c3224ecc1de2b6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/abe96d90e3d7085d13dcd25c9780586d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/d76bc5b392ece5f3b01ca6a69eafd83d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/72328fe20a470175cd21cef826b24f7e/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/988addd1c2202735aee977650b504f05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/b0b74d47a8a2f0cd517215936ee65783/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/1804a5fc1768fc0a394c0efe09b082fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ddf2b18c4107be36b7aaea87f435707d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha03.aar/b072c615d4260169794bccc0a426322f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/41eab0ffd8b329e17d4c0f344ce6cf48/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/7479c336570a2653f1985bef22a280f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/bec895ba17c169bcf2d9a8bfc1f912b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/edaf3bc83889aab8ec2654e1dbc552af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/57ff569d6ebd673cd56c8fa6f0b687a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.7.1.aar/86591db950fde64a9758527705842222/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:7:22-73
+application
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:9:5-62:19
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-4.41.0.aar/666c1a010b382614b2426db62886bdd5/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-4.41.0.aar/666c1a010b382614b2426db62886bdd5/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:28:5-35:19
+MERGED from [com.google.android.material:material:1.1.0-alpha04] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha04.aar/888bbfa138d662b6187a378c683b2ffa/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha04] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha04.aar/888bbfa138d662b6187a378c683b2ffa/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/ff89d2ddec9a2348ecab746d3d148e96/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/ff89d2ddec9a2348ecab746d3d148e96/AndroidManifest.xml:9:5-20
+MERGED from [com.jjoe64:graphview:4.2.2] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-graphview-4.2.2.aar/b3a81148411a8eed6f7aeaec85bb8d5a/AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.2] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-graphview-4.2.2.aar/b3a81148411a8eed6f7aeaec85bb8d5a/AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/53c5a31098c1013dd853021469066117/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/53c5a31098c1013dd853021469066117/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/d62af3eeeb2c8f1f0e3ba6f7ff6025a7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/d62af3eeeb2c8f1f0e3ba6f7ff6025a7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/703e17feb4b7d1642d3f831ec3a09266/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/703e17feb4b7d1642d3f831ec3a09266/AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/305be8d5a50aceb434504a6379132cc5/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/305be8d5a50aceb434504a6379132cc5/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.7.1.aar/e1c4ac517b9428c5e4b23ce52625baf0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.7.1.aar/e1c4ac517b9428c5e4b23ce52625baf0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/e95b03b58ff31bee99c3224ecc1de2b6/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/e95b03b58ff31bee99c3224ecc1de2b6/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/72328fe20a470175cd21cef826b24f7e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/72328fe20a470175cd21cef826b24f7e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.7.1.aar/86591db950fde64a9758527705842222/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.7.1.aar/86591db950fde64a9758527705842222/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/e95b03b58ff31bee99c3224ecc1de2b6/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.nsit.thehealthcompany.SplashScreen
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:16:9-59
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:16:19-47
+activity#com.nsit.thehealthcompany.GetStartedActivity
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:17:9-56
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:17:19-53
+activity#com.nsit.thehealthcompany.TempScreen
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:18:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.nsit.thehealthcompany.LoginScreen
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:25:9-48
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:25:19-46
+activity#com.nsit.thehealthcompany.MainActivity
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:26:19-47
+activity#com.nsit.thehealthcompany.TakeTest
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:27:9-45
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:27:19-43
+activity#com.nsit.thehealthcompany.NotificationsActivity
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:28:19-56
+activity#com.nsit.thehealthcompany.RegisterScreen
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:29:19-49
+activity#com.nsit.thehealthcompany.HealthyScreen
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:30:9-50
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:30:19-48
+activity#com.nsit.thehealthcompany.PrivacyAndTermsActivity
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:31:9-60
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:31:19-58
+activity#com.nsit.thehealthcompany.PersonalDetails
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:32:19-50
+activity#com.nsit.thehealthcompany.SignUpScreen
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:33:19-47
+activity#com.nsit.thehealthcompany.MealNurtitionDescription
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:34:9-61
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:34:19-59
+activity#com.nsit.thehealthcompany.SearchMeal
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:35:9-47
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:35:19-45
+activity#com.nsit.thehealthcompany.BasicInformation
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:36:19-51
+activity#com.nsit.thehealthcompany.AddScreen
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:37:9-46
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:37:19-44
+activity#com.nsit.thehealthcompany.AccountSettings
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:38:9-52
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:38:19-50
+activity#com.nsit.thehealthcompany.HelpScreen
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:39:9-47
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:39:19-45
+activity#com.nsit.thehealthcompany.FoodPreferences
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:40:9-52
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:40:19-50
+activity#com.nsit.thehealthcompany.NotificationSettings
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:41:9-57
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:41:19-55
+activity#com.facebook.FacebookActivity
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:42:9-45:48
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:45:13-45
+	android:configChanges
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:44:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:43:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:46:9-57:20
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:47:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:49:13-56:29
+action#android.intent.action.VIEW
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:52:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:53:17-78
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:53:27-75
+data
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:55:17-75
+	android:scheme
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:55:23-72
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:59:9-61:55
+	android:value
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:61:13-52
+	android:name
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml:60:13-58
+uses-sdk
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-4.41.0.aar/666c1a010b382614b2426db62886bdd5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-4.41.0.aar/666c1a010b382614b2426db62886bdd5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.material:material:1.1.0-alpha04] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha04.aar/888bbfa138d662b6187a378c683b2ffa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha04] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha04.aar/888bbfa138d662b6187a378c683b2ffa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/31927cb367dde674e6a8e83dd317d1ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/31927cb367dde674e6a8e83dd317d1ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/ff89d2ddec9a2348ecab746d3d148e96/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/ff89d2ddec9a2348ecab746d3d148e96/AndroidManifest.xml:5:5-7:41
+MERGED from [com.roomorama:caldroid:3.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-caldroid-3.0.1.aar/bf48e852e21b5cf33f9c9cd99cae2331/AndroidManifest.xml:7:5-9:41
+MERGED from [com.roomorama:caldroid:3.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-caldroid-3.0.1.aar/bf48e852e21b5cf33f9c9cd99cae2331/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-graphview-4.2.2.aar/b3a81148411a8eed6f7aeaec85bb8d5a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-graphview-4.2.2.aar/b3a81148411a8eed6f7aeaec85bb8d5a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/59f61b3bb465412d6a916a46068b2a9f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/59f61b3bb465412d6a916a46068b2a9f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/dad4c97f565e9f95257dddedf3b0bab6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/dad4c97f565e9f95257dddedf3b0bab6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/53c5a31098c1013dd853021469066117/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/53c5a31098c1013dd853021469066117/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/d62af3eeeb2c8f1f0e3ba6f7ff6025a7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/d62af3eeeb2c8f1f0e3ba6f7ff6025a7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/703e17feb4b7d1642d3f831ec3a09266/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/703e17feb4b7d1642d3f831ec3a09266/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/1fab1a7222cdd8d485602ee92e583998/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/1fab1a7222cdd8d485602ee92e583998/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/305be8d5a50aceb434504a6379132cc5/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/305be8d5a50aceb434504a6379132cc5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/circleprogress-1.2.1.aar/05dada37dd09461f7939322a1bd3fcd1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/circleprogress-1.2.1.aar/05dada37dd09461f7939322a1bd3fcd1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.7.1.aar/e1c4ac517b9428c5e4b23ce52625baf0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.7.1.aar/e1c4ac517b9428c5e4b23ce52625baf0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/ba60140e9cf356f826119b4318d943ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/ba60140e9cf356f826119b4318d943ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/8625ba18bedfa2f15ed4046c22854734/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/8625ba18bedfa2f15ed4046c22854734/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/2350a8b96943ec481272432dc688a759/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/2350a8b96943ec481272432dc688a759/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/3eb9a24a89c0d9402c0297da236f0b5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/3eb9a24a89c0d9402c0297da236f0b5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/b886295dc6ca71d180529a1d93c989a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/b886295dc6ca71d180529a1d93c989a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/7e3704ea138168767c06f6564919c187/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/7e3704ea138168767c06f6564919c187/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/0ab9a6676010a13ebd55d5602e4366b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/0ab9a6676010a13ebd55d5602e4366b8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/dc7039bc00ad159f1d2e356dc41e8d70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/dc7039bc00ad159f1d2e356dc41e8d70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha01.aar/6735cca743b8f20326909bb2ee423487/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha01.aar/6735cca743b8f20326909bb2ee423487/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/9966127ef53f5e2409b44464311ccc05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/9966127ef53f5e2409b44464311ccc05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/f776cb37836ac8b2baab9cb13bc70182/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/f776cb37836ac8b2baab9cb13bc70182/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/6f5da98757245f6dcc137515b65062ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/6f5da98757245f6dcc137515b65062ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1492da9e4abecc3f803c9231926e0c82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1492da9e4abecc3f803c9231926e0c82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f05d65ad82902a71fff6a61464f7a639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f05d65ad82902a71fff6a61464f7a639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/a79ced531f075ba153b778cf14c9fa69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/a79ced531f075ba153b778cf14c9fa69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d3485ad8d39ade5e44b1d92e68796455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d3485ad8d39ade5e44b1d92e68796455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/32012ed03e4aee84f22fae32387186e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/32012ed03e4aee84f22fae32387186e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/46c2cff722e0e51700e0f3ad59323c10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/46c2cff722e0e51700e0f3ad59323c10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/bc45d43ff0b29d96fd8469449e017a23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/bc45d43ff0b29d96fd8469449e017a23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/e95b03b58ff31bee99c3224ecc1de2b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/e95b03b58ff31bee99c3224ecc1de2b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/abe96d90e3d7085d13dcd25c9780586d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/abe96d90e3d7085d13dcd25c9780586d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/d76bc5b392ece5f3b01ca6a69eafd83d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/d76bc5b392ece5f3b01ca6a69eafd83d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/72328fe20a470175cd21cef826b24f7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/72328fe20a470175cd21cef826b24f7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/988addd1c2202735aee977650b504f05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/988addd1c2202735aee977650b504f05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/b0b74d47a8a2f0cd517215936ee65783/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/b0b74d47a8a2f0cd517215936ee65783/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/1804a5fc1768fc0a394c0efe09b082fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/1804a5fc1768fc0a394c0efe09b082fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ddf2b18c4107be36b7aaea87f435707d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ddf2b18c4107be36b7aaea87f435707d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha03.aar/b072c615d4260169794bccc0a426322f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha03.aar/b072c615d4260169794bccc0a426322f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/41eab0ffd8b329e17d4c0f344ce6cf48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/41eab0ffd8b329e17d4c0f344ce6cf48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/7479c336570a2653f1985bef22a280f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/7479c336570a2653f1985bef22a280f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/bec895ba17c169bcf2d9a8bfc1f912b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/bec895ba17c169bcf2d9a8bfc1f912b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/edaf3bc83889aab8ec2654e1dbc552af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/edaf3bc83889aab8ec2654e1dbc552af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/57ff569d6ebd673cd56c8fa6f0b687a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/57ff569d6ebd673cd56c8fa6f0b687a1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.7.1.aar/86591db950fde64a9758527705842222/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.7.1.aar/86591db950fde64a9758527705842222/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/starhawk/Documents/GithubRepos/THC APP/The Health Company App/app/src/main/AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.41.0.aar/075942fba14fadb703b0946776b9fd83/AndroidManifest.xml:33:19-68
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/c9fe1e8edea45543d2abcdc4c66c55f3/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/53c5a31098c1013dd853021469066117/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/53c5a31098c1013dd853021469066117/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/53c5a31098c1013dd853021469066117/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/53c5a31098c1013dd853021469066117/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/703e17feb4b7d1642d3f831ec3a09266/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/703e17feb4b7d1642d3f831ec3a09266/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/703e17feb4b7d1642d3f831ec3a09266/AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/starhawk/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.41.0.aar/bc4f4465d52dc6c26dea23a1db8b5d27/AndroidManifest.xml:48:25-92

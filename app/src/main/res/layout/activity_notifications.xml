@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".NotificationsActivity"
+        android:background="#EEEEEE"
+        android:paddingTop="20dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp">
+
+        <RelativeLayout
+            android:id="@+id/notificationDesignLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fff"
+            android:padding="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:id="@+id/notificationTopLayout"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2"
+                    android:padding="7dp"
+                    android:src="@drawable/user_profile_icon"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.7"
+                    android:textColor="@color/colorPrimary"
+                    android:text="THE HEALTH COMPANY"
+                    android:gravity="center|start"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textViewOneNotifications"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="#000"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_below="@id/notificationTopLayout"
+                android:text="Doubled Success"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_below="@id/textViewOneNotifications"
+                android:text="Let notifications help you succeed faster."/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textViewOneNotification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="45dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:lineSpacingMultiplier="1.25"
+            android:text="Using notifications increase your chances of success by "
+            android:textSize="23sp"
+            app:layout_constraintTop_toBottomOf="@+id/notificationDesignLayout"
+            tools:layout_editor_absoluteX="20dp" />
+
+        <TextView
+            android:id="@+id/textViewTwoNotification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="100 %"
+            android:textColor="#72E4A3"
+            android:textSize="42sp"
+            app:layout_constraintTop_toBottomOf="@+id/textViewOneNotification"
+            tools:layout_editor_absoluteX="20dp" />
+
+        <Button
+            android:id="@+id/triggerNotificationBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="60dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="120dp"
+            android:layout_marginEnd="40dp"
+            android:background="@drawable/round_btn"
+            android:backgroundTint="#72E4A3"
+            android:gravity="center"
+            android:paddingStart="25dp"
+            android:paddingEnd="25dp"
+            android:text="TRIGGER NOTIFICATIONS"
+            android:textColor="#fff"
+            android:textSize="19sp"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewTwoNotification" />
+
+        <Button
+            android:id="@+id/notNowBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/round_btn"
+            android:backgroundTint="@android:color/transparent"
+            android:gravity="center"
+            android:minHeight="60dp"
+            android:paddingStart="25dp"
+            android:paddingEnd="25dp"
+            android:text="NOT NOW"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:textColor="#757575"
+            android:textSize="19sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/triggerNotificationBtn" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="20dp">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poiretone_regular"
+                android:gravity="start"
+                android:letterSpacing="0.1"
+                android:text="Weight (in kg)"
+                android:paddingStart="15dp"
+                android:paddingEnd="15dp"
+                android:textColor="#000"
+                android:textSize="21sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:paddingEnd="15dp"
+                android:paddingStart="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#E0E0E0"
+                android:background="@drawable/round_btn">
+
+                <ImageView
+                    android:id="@+id/addWeightImageViewIcon"
+                    android:layout_width="33dp"
+                    android:layout_height="33dp"
+                    android:src="@drawable/add_icon_basic_info"/>
+
+                <TextView
+                    android:id="@+id/weightTextView"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="60"
+                    android:maxLines="1"
+                    android:textSize="27sp"
+                    android:textColor="#616161"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"/>
+
+                <ImageView
+                    android:id="@+id/minusWeightImageViewIcon"
+                    android:layout_width="33dp"
+                    android:layout_height="33dp"
+                    android:src="@drawable/minus_icon_basic_info"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poiretone_regular"
+                android:gravity="start"
+                android:letterSpacing="0.1"
+                android:text="Height (in cm)"
+                android:paddingStart="15dp"
+                android:paddingEnd="15dp"
+                android:textColor="#000"
+                android:textSize="21sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:paddingEnd="15dp"
+                android:paddingStart="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#E0E0E0"
+                android:background="@drawable/round_btn">
+
+                <ImageView
+                    android:id="@+id/addHeightImageViewIcon"
+                    android:layout_width="33dp"
+                    android:layout_height="33dp"
+                    android:src="@drawable/add_icon_basic_info"/>
+
+                <TextView
+                    android:id="@+id/heightTextView"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="160"
+                    android:maxLines="1"
+                    android:textSize="27sp"
+                    android:textColor="#616161"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"/>
+
+                <ImageView
+                    android:id="@+id/minusHeightImageViewIcon"
+                    android:layout_width="33dp"
+                    android:layout_height="33dp"
+                    android:src="@drawable/minus_icon_basic_info"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poiretone_regular"
+                android:gravity="start"
+                android:letterSpacing="0.1"
+                android:text="Age"
+                android:textColor="#000"
+                android:paddingStart="15dp"
+                android:paddingEnd="15dp"
+                android:textSize="21sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:paddingEnd="15dp"
+                android:paddingStart="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#E0E0E0"
+                android:background="@drawable/round_btn">
+
+                <ImageView
+                    android:id="@+id/addAgeImageViewIcon"
+                    android:layout_width="33dp"
+                    android:layout_height="33dp"
+                    android:src="@drawable/add_icon_basic_info"/>
+
+                <TextView
+                    android:id="@+id/ageTextView"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="30"
+                    android:maxLines="1"
+                    android:textSize="27sp"
+                    android:textColor="#616161"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"/>
+
+                <ImageView
+                    android:id="@+id/minusAgeImageViewIcon"
+                    android:layout_width="33dp"
+                    android:layout_height="33dp"
+                    android:src="@drawable/minus_icon_basic_info"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+</ScrollView>

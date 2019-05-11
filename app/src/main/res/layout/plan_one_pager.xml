@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/linearLayoutPlan"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TAKE OUR TEST"
+        android:gravity="center"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:fontFamily="@font/montserrat_semi_bold"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Find your\nplan"
+        android:gravity="center"
+        android:textSize="45sp"
+        android:fontFamily="@font/montserrat_extra_bold"
+        android:layout_marginTop="5dp"
+        android:textColor="#fff"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Take our quick test and will find the perfect plan for you"
+        android:gravity="center"
+        android:textSize="13sp"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#fff"/>
+
+    <Button
+        android:id="@+id/takeTestBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TAKE THE TEST"
+        android:letterSpacing="0.2"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:textColor="#0091EA"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:paddingHorizontal="30dp"
+        android:background="@drawable/round_btn"/>
+
+</LinearLayout>

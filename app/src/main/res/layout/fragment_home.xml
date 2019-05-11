@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F0F0F0">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/appBarLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/expanded_main_toolbar"
+            app:elevation="0dp"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+            <com.google.android.material.appbar.CollapsingToolbarLayout
+                android:id="@+id/collapsingToolbarLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:contentScrim="?attr/colorPrimary"
+                app:expandedTitleMarginTop="70dp"
+                app:layout_scrollFlags="scroll|exitUntilCollapsed"
+                app:scrimVisibleHeightTrigger="?attr/actionBarSize"
+                android:background="@drawable/expanded_main_toolbar">
+
+                <LinearLayout
+                    android:id="@+id/progressLayoutMain"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="20dp"
+                    android:paddingStart="10dp"
+                    android:paddingEnd="10dp"
+                    android:layout_marginTop="?attr/actionBarSize"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1.5"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.7"
+                            android:gravity="center"
+                            android:alpha="0.7"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/leanBarDataTextView"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="0"
+                                android:fontFamily="@font/encode_sans_expanded_medium"
+                                android:textColor="#fff"
+                                android:textSize="20sp"
+                                android:gravity="center"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="LEAN BAR"
+                                android:fontFamily="@font/encode_sans_expanded_thin"
+                                android:textStyle="bold"
+                                android:textColor="#F2FAFAFA"
+                                android:textSize="11sp"
+                                android:paddingTop="5dp"
+                                android:paddingBottom="7dp"
+                                android:letterSpacing="0.1"
+                                android:gravity="center"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <androidx.cardview.widget.CardView
+                                android:layout_width="120dp"
+                                android:layout_height="120dp"
+                                app:cardBackgroundColor="@android:color/transparent"
+                                app:cardCornerRadius="100dp"
+                                android:layout_gravity="center"
+                                app:cardElevation="0dp">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@drawable/round_circle_outline"
+                                    android:orientation="vertical"
+                                    android:layout_gravity="center"
+                                    android:gravity="center"
+                                    android:layout_margin="17dp"
+                                    android:padding="5dp">
+
+                                    <TextView
+                                        android:id="@+id/totalKCalLeftTextView"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:text="17463"
+                                        android:fontFamily="@font/encode_sans_expanded_thin"
+                                        android:textColor="#fff"
+                                        android:textStyle="bold"
+                                        android:textSize="19sp"
+                                        android:gravity="center"/>
+
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:text="KCAL LEFT"
+                                        android:textSize="9sp"
+                                        android:paddingTop="5dp"
+                                        android:fontFamily="@font/encode_sans_expanded_thin"
+                                        android:textStyle="bold"
+                                        android:textColor="#FAFAFA"
+                                        android:gravity="center"/>
+
+                                </LinearLayout>
+
+                            </androidx.cardview.widget.CardView>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.7"
+                            android:gravity="center"
+                            android:alpha="0.7"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/leanGreenTeaDataTextView"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="0"
+                                android:fontFamily="@font/encode_sans_expanded_medium"
+                                android:textColor="#fff"
+                                android:textSize="20sp"
+                                android:gravity="center"/>
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="LEAN GREEN TEA"
+                                android:fontFamily="@font/encode_sans_expanded_thin"
+                                android:textStyle="bold"
+                                android:textColor="#F2FAFAFA"
+                                android:textSize="11sp"
+                                android:paddingTop="5dp"
+                                android:paddingBottom="7dp"
+                                android:letterSpacing="0.1"
+                                android:gravity="center"/>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:paddingStart="10dp"
+                        android:paddingEnd="10dp"
+                        android:alpha="0.7"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="PROTIEN"
+                                android:textColor="#fff"
+                                android:textStyle="bold"
+                                android:textSize="11sp"
+                                android:paddingTop="5dp"
+                                android:paddingBottom="7dp"
+                                android:letterSpacing="0.1"
+                                android:gravity="center"/>
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:layout_marginStart="25dp"
+                                android:layout_marginEnd="25dp"
+                                android:background="#80FAFAFA"/>
+
+                            <TextView
+                                android:id="@+id/proteinDataTextView"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="92 g left"
+                                android:paddingTop="7dp"
+                                android:paddingBottom="5dp"
+                                android:textSize="11sp"
+                                android:textColor="#fff"
+                                android:gravity="center"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="CARBS"
+                                android:textColor="#fff"
+                                android:textStyle="bold"
+                                android:textSize="11sp"
+                                android:paddingTop="5dp"
+                                android:paddingBottom="7dp"
+                                android:letterSpacing="0.1"
+                                android:gravity="center"/>
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:layout_marginStart="25dp"
+                                android:layout_marginEnd="25dp"
+                                android:background="#80FAFAFA"/>
+
+                            <TextView
+                                android:id="@+id/carbsDataTextView"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="230 g left"
+                                android:paddingTop="7dp"
+                                android:paddingBottom="5dp"
+                                android:textSize="11sp"
+                                android:textColor="#fff"
+                                android:gravity="center"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="FAT"
+                                android:textColor="#fff"
+                                android:textStyle="bold"
+                                android:textSize="11sp"
+                                android:paddingTop="5dp"
+                                android:paddingBottom="7dp"
+                                android:letterSpacing="0.1"
+                                android:gravity="center"/>
+
+                            <View
+                                android:layout_width="wrap_content"
+                                android:layout_height="1dp"
+                                android:layout_marginStart="25dp"
+                                android:layout_marginEnd="25dp"
+                                android:background="#80FAFAFA"/>
+
+                            <TextView
+                                android:id="@+id/fatDataTextView"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="61 g left"
+                                android:paddingTop="7dp"
+                                android:paddingBottom="5dp"
+                                android:textSize="11sp"
+                                android:textColor="#fff"
+                                android:gravity="center"/>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <androidx.appcompat.widget.Toolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/collapsed_main_toolbar"
+                    app:layout_collapseMode="pin"
+                    app:contentInsetStart="0dp">
+
+                    <TextView
+                        android:id="@+id/goalTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="CLASSIC DIETING"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        android:letterSpacing="0.1"
+                        android:textColor="#fff"
+                        android:gravity="center"
+                        android:padding="3dp"/>
+
+                </androidx.appcompat.widget.Toolbar>
+
+            </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/mainScreenViewPager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </androidx.core.widget.NestedScrollView>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</LinearLayout>
